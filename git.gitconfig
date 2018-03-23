@@ -1,0 +1,5 @@
+[user]
+	name = Roman Ushchapovsky
+	email = romus30@online.ua
+[core]
+	autocrlf = false
